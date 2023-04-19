@@ -2,3 +2,4 @@ Roser er røde
 Violer er blå
 Jordbær er søde
 Og du er ligeså
+ny tekst til min fil
